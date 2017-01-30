@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  year: 1
+  rating: MyString
+  released: MyString
+  runtime: MyString
+  plot: 
+
+two:
+  title: MyString
+  year: 1
+  rating: MyString
+  released: MyString
+  runtime: MyString
+  plot: 
